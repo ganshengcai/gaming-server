@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gaming-server-commons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gaming-server-database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gaming-server-dependencies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gaming-server-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gaming-server-service-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gaming-server-service-admin-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gaming-server-web-admin" vcs="Git" />
+  </component>
+</project>
